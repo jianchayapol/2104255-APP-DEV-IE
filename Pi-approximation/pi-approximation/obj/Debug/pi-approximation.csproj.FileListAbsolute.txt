@@ -1,0 +1,10 @@
+C:\Users\6330085821\source\repos\pi-approximation\pi-approximation\bin\Debug\pi-approximation.exe.config
+C:\Users\6330085821\source\repos\pi-approximation\pi-approximation\bin\Debug\pi-approximation.exe
+C:\Users\6330085821\source\repos\pi-approximation\pi-approximation\bin\Debug\pi-approximation.pdb
+C:\Users\6330085821\source\repos\pi-approximation\pi-approximation\obj\Debug\pi-approximation.csproj.AssemblyReference.cache
+C:\Users\6330085821\source\repos\pi-approximation\pi-approximation\obj\Debug\pi_approximation.Form1.resources
+C:\Users\6330085821\source\repos\pi-approximation\pi-approximation\obj\Debug\pi_approximation.Properties.Resources.resources
+C:\Users\6330085821\source\repos\pi-approximation\pi-approximation\obj\Debug\pi-approximation.csproj.GenerateResource.cache
+C:\Users\6330085821\source\repos\pi-approximation\pi-approximation\obj\Debug\pi-approximation.csproj.CoreCompileInputs.cache
+C:\Users\6330085821\source\repos\pi-approximation\pi-approximation\obj\Debug\pi-approximation.exe
+C:\Users\6330085821\source\repos\pi-approximation\pi-approximation\obj\Debug\pi-approximation.pdb
