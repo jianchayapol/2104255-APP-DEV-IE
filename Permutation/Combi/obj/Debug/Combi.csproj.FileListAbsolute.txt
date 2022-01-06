@@ -1,0 +1,10 @@
+C:\Users\6330085821\source\repos\Combi\Combi\bin\Debug\Combi.exe.config
+C:\Users\6330085821\source\repos\Combi\Combi\bin\Debug\Combi.exe
+C:\Users\6330085821\source\repos\Combi\Combi\bin\Debug\Combi.pdb
+C:\Users\6330085821\source\repos\Combi\Combi\obj\Debug\Combi.csproj.AssemblyReference.cache
+C:\Users\6330085821\source\repos\Combi\Combi\obj\Debug\Combi.Form1.resources
+C:\Users\6330085821\source\repos\Combi\Combi\obj\Debug\Combi.Properties.Resources.resources
+C:\Users\6330085821\source\repos\Combi\Combi\obj\Debug\Combi.csproj.GenerateResource.cache
+C:\Users\6330085821\source\repos\Combi\Combi\obj\Debug\Combi.csproj.CoreCompileInputs.cache
+C:\Users\6330085821\source\repos\Combi\Combi\obj\Debug\Combi.exe
+C:\Users\6330085821\source\repos\Combi\Combi\obj\Debug\Combi.pdb
