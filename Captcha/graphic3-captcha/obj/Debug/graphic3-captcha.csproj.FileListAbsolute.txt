@@ -1,0 +1,10 @@
+C:\Users\6330085821\source\repos\graphic3-captcha\graphic3-captcha\bin\Debug\graphic3-captcha.exe.config
+C:\Users\6330085821\source\repos\graphic3-captcha\graphic3-captcha\bin\Debug\graphic3-captcha.exe
+C:\Users\6330085821\source\repos\graphic3-captcha\graphic3-captcha\bin\Debug\graphic3-captcha.pdb
+C:\Users\6330085821\source\repos\graphic3-captcha\graphic3-captcha\obj\Debug\graphic3_captcha.Form1.resources
+C:\Users\6330085821\source\repos\graphic3-captcha\graphic3-captcha\obj\Debug\graphic3_captcha.Properties.Resources.resources
+C:\Users\6330085821\source\repos\graphic3-captcha\graphic3-captcha\obj\Debug\graphic3-captcha.csproj.GenerateResource.cache
+C:\Users\6330085821\source\repos\graphic3-captcha\graphic3-captcha\obj\Debug\graphic3-captcha.csproj.CoreCompileInputs.cache
+C:\Users\6330085821\source\repos\graphic3-captcha\graphic3-captcha\obj\Debug\graphic3-captcha.exe
+C:\Users\6330085821\source\repos\graphic3-captcha\graphic3-captcha\obj\Debug\graphic3-captcha.pdb
+C:\Users\6330085821\source\repos\graphic3-captcha\graphic3-captcha\obj\Debug\graphic3-captcha.csproj.AssemblyReference.cache
